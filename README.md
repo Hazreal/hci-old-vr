@@ -4,6 +4,6 @@ It is made using Axure, a prototyping software and is kept here for posterity an
 
 The page is hosted here:
 
-[Site with sidebar](https://hazreal.github.io/hciuxProject/)
+[Site with sidebar](https://hazreal.github.io/hci-old-vr/)
 
-[Site without Sidebar](https://hazreal.github.io/hciuxProject/home.html)
+[Site without Sidebar](https://hazreal.github.io/hci-old-vr/)
